@@ -5,9 +5,9 @@
  
 const data = [1,7,8,43,2,21,7,88,9,0,-4,19,3,6];
 
-function bubble(arr) {
+function bubbleSort(arr) {
   for(let i = 1 ; i<arr.length ; i++) {
-    for(let j = 0 ; j<arr.length - i ; j++) {
+    for(let j = 0 ; j<arr.length - i  ; j++) {
       if(arr[j]>arr[j+1]) {
         const current = arr[j];
         arr[j] = arr[j+1];
@@ -18,7 +18,7 @@ function bubble(arr) {
   return arr;
 }
 
-console.log(bubble(data)) //[-4, 0, 1, 2, 3, 6, 7, 7, 8, 9, 19, 21, 43, 88]
+console.log(bubbleSort(data)) //[-4, 0, 1, 2, 3, 6, 7, 7, 8, 9, 19, 21, 43, 88]
 
 let data2 = [
   {name:'aaaa',age:52},
