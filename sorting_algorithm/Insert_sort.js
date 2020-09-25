@@ -22,7 +22,7 @@ function insertSort1(arr) {
   return arr;
 }
 
-cdonsole.log(insertSort1(data))
+console.log(insertSort1(data))
 
 //第二种
 function insertSort2(arr) {
