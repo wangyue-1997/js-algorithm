@@ -2,7 +2,7 @@
 
 你可以假设**每种输入只会对应一个答案**。但是，数组中同一个元素不能使用两遍。
 
-*实列*:
+*实列：*
 ```
 给定 nums = [2, 7, 11, 15], target = 9
 
@@ -10,6 +10,7 @@
 所以返回 [0, 1]
 ```
 
-*解法*:
+*解法：*
+
 - [暴力破解](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/[001]two_sum/violence.js)
 - [Map()](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/[001]two_sum/Map.js)
