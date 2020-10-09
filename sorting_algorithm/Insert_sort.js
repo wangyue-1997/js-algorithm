@@ -25,6 +25,7 @@ function insertSort1(arr) {
 console.log(insertSort1(data))
 
 //第二种
+
 function insertSort2(arr) {
   for(let i = 1 ; i<arr.length ; i++) {
     for(let j = i ; j>0 ; j--) {
