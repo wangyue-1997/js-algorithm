@@ -16,6 +16,7 @@
 - [防抖-debounce](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/debounce.js) 🎊
 - [节流-throttle](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/throttle.js) 🎃
 - [简易深度克隆-unsophisticated_deepClone](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/unsophisticated_deepClone.js) 🎍
+- [日期处理函数—date](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/date.js) 🎎
 
 
 
