@@ -24,5 +24,6 @@
 ## 3.leetCode刷题（leetCode_algorithm）🍟
 
 - [[001]two_sum](https://github.com/wangyue-1997/js-algorithm/tree/master/leetCode_algorithm/%5B001%5Dtwo_sum) 🎄
-- [[003]longest_string_without_repeating_characters](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/[003]longest_string_without_repeating_characters/slide_window) 🎋
+- [[003]longest_string_without_repeating_characters](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/[003]longest_string_without_repeating_characters) 🎋
+- [[005]longest_palindromic_substring](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/%5B005%5Dlongest_palindromic_substring) 🎐
 
