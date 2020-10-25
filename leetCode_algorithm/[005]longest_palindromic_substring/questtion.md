@@ -16,4 +16,5 @@
 
 
 *解法：*
-- [expend_around_center(中心扩散)](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/[005]longest_palindromic_substring/expend_around_center)
+
+- [expend_around_center(中心扩散)](https://github.com/wangyue-1997/js-algorithm/blob/master/leetCode_algorithm/%5B005%5Dlongest_palindromic_substring/expend_around_center.js)
