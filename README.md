@@ -18,7 +18,8 @@
 - [简易深度克隆-unsophisticated_deepClone](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/unsophisticated_deepClone.js) 🎍
 - [日期处理函数-date](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/date.js) 🎎
 - [数据验证器-validate](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/validate.js) 🎏
-
+- [数组合并-mergeArry](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/mergeArry.js) 🎑
+- [数组的最大值或最小值-minAndMax](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/minAndMax.js) 🧧
 
 ## 3.leetCode刷题（leetCode_algorithm）🍟
 
