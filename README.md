@@ -20,7 +20,6 @@
 - [数据验证器-validate](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/validate.js) 🎏
 
 
-
 ## 3.leetCode刷题（leetCode_algorithm）🍟
 
 - [[001]two_sum](https://github.com/wangyue-1997/js-algorithm/tree/master/leetCode_algorithm/%5B001%5Dtwo_sum) 🎄
