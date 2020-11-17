@@ -20,6 +20,7 @@
 - [数据验证器-validate](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/validate.js) 🎏
 - [数组合并-mergeArry](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/mergeArry.js) 🎑
 - [数组的最大值或最小值-minAndMax](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/minAndMax.js) 🧧
+- [级联菜单-menuOptions](https://github.com/wangyue-1997/js-algorithm/blob/master/utils_algorithm/menuOptions.js) 🎀
 
 ## 3.leetCode刷题（leetCode_algorithm）🍟
 
