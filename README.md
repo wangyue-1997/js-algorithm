@@ -1,4 +1,4 @@
-# js-algorithm
+# algorithm
 > used to record javaScript algorithm
 
 ## 1.排序类算法（sorting-algorithm）🍕
